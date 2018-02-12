@@ -2,3 +2,5 @@
 
 ./git.sh
 ./google.sh
+./virtualbox.sh
+./skype.sh
