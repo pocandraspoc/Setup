@@ -1,7 +1,7 @@
 #!/bin/bash
 
 apt-get remove skype skype-bin:i386 skype:i386
-apt-get install sni-qt:i386
+apt-get install sni-qt:i386 -y
 
 dpkg --add-architecture i386
 apt-get update
