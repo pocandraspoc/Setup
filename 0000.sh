@@ -5,3 +5,4 @@
 ./virtualbox.sh
 ./skype.sh
 ./ruby.sh
+./subl.sh
