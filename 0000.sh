@@ -4,3 +4,4 @@
 ./google.sh
 ./virtualbox.sh
 ./skype.sh
+./ruby.sh
