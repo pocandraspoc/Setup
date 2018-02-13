@@ -1,8 +1,0 @@
-1: Lookup sublimetext setup from bash history
-2: Create new .sh from it in setup folder
-git add (eddig megvan)
-git new branch
-git commit
-git push
-add pullrequest
-wait for András review
